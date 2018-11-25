@@ -1,0 +1,50 @@
+/** {
+	background-color: #3333FF
+}
+
+h1 {
+	color: red;
+}
+
+.topnav {
+	font-size: 22px;
+}
+
+.topnav a{
+	color: black;
+	background-color: : white;
+}*/
+
+* {
+	color: gray;
+	width: 70%;
+}
+.content p {
+	color: purple;
+
+}
+.content {
+		border: 1px solid black; 
+		margin: 8px; 
+		padding: 30px; 
+}
+
+.header {
+	background-color: purple;
+	color: white;
+	padding: 30px;
+	border: 3px black;
+	margin: 10px 10px 10px;
+
+
+
+}
+
+.footer {
+	background-color: purple;
+	color: white;
+	padding: 30px;
+	margin: 10px 10px 10px;
+	
+
+}
